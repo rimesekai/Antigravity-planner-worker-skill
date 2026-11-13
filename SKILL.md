@@ -1,6 +1,6 @@
 ---
 name: planner-worker
-description: Planner-Worker collaborative workflow for complex engineering tasks. The main model (Claude Opus/Sonnet, Gemini Pro, or any high-reasoning model) serves as Lead Architect to analyze requirements and decompose atomic tasks, dispatches ultra-fast Gemini Flash subagents (Model: "flash") via invoke_subagent for implementation and testing, and triggers an independent, clean-context Pro subagent (Model: "pro") for a strict read-only final audit before delivery. Use for complex development, multi-file refactoring, batch task delegation, "planner worker", "delegate to flash", or "指挥 Flash / 分工执行".
+description: "Planner-Worker collaborative workflow for complex engineering tasks. The main model (Claude Opus/Sonnet, Gemini Pro, or any high-reasoning model) serves as Lead Architect to analyze requirements and decompose atomic tasks, dispatches ultra-fast Gemini Flash subagents (Model: 'flash') via invoke_subagent for implementation and testing, and triggers an independent, clean-context Pro subagent (Model: 'pro') for a strict read-only final audit before delivery. Use for complex development, multi-file refactoring, batch task delegation, 'planner worker', 'delegate to flash', or '指挥 Flash / 分工执行'."
 ---
 
 # Planner-Worker Collaborative Workflow
