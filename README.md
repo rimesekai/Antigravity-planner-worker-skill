@@ -10,6 +10,9 @@
 
 ## Planner-Worker Workflow Skill (English)
 
+> [!NOTE]
+> **Project Status & Maintenance Notice**: Google Antigravity's newly released native **Orchestrator** mode already covers much of the core quota-saving scheduling workflow of this skill. However, since **Orchestrator** and the **Carbon** model are not yet available to Pro-tier users, this skill remains actively useful for providing a similar workflow in the meantime. **Maintenance of this project will be sunset once Orchestrator and Carbon are rolled out to Pro users.**
+
 > **Core Motivation**: In Google Antigravity, **high-tier flagship model quotas** (such as Claude Opus/Sonnet or Gemini Pro) are precious and limited, while **Gemini Flash quotas are abundant and blazingly fast**. This skill is designed to **drastically save your high-tier quotas and fully leverage abundant Flash quotas—while simultaneously improving overall task quality** through structured architectural planning and independent final auditing.
 
 An open-source **Skill** designed for **Google Antigravity (AGY)** that implements a complete software engineering collaboration workflow: **High-Reasoning Architect Planning + Ultra-Fast Worker Execution + Independent Read-Only Final Audit + Self-Evolving Knowledge Base**.
@@ -81,6 +84,9 @@ Once installed, simply prompt Antigravity with phrases like:
 <a id="简体中文"></a>
 
 ## Planner-Worker Skill (简体中文)
+
+> [!NOTE]
+> **项目状态与维护说明**：Google Antigravity 最新推出的官方原生 **Orchestrator** 功能已经涵盖了本 Skill 大部分的核心调度与省配额能力；但由于目前 **Orchestrator** 与 **Carbon** 模型尚未向 Pro 用户开放，本 Skill 现阶段仍可为 Pro 用户提供类似的协同工作流。**待官方 Orchestrator 与 Carbon 模型向 Pro 用户正式开放后，本项目将停止维护。**
 
 > **设计初衷与核心目的**：在 Google Antigravity 中，**高阶旗舰模型（如 Claude Opus/Sonnet 或 Gemini Pro 等）的额度十分宝贵且有限，而 Gemini Flash 的额度则非常充沛且响应极快**。本 Skill 旨在**大幅节省昂贵的高阶模型额度、充分利用充沛的 Flash 额度**，同时通过严谨的架构拆解与独立终审机制，**反而进一步提高复杂任务的最终交付质量**。
 
